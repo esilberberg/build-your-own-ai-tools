@@ -1,0 +1,7 @@
+PASTE YOUR API KEY HERE
+
+- - - -
+1. Visit: https://ai.google.dev/gemini-api/docs/api-key
+2. Generate your own API Key
+3. Copy and paste it into this file
+4. Delete all text from this file except your API key
